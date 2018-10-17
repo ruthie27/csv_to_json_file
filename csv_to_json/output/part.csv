@@ -1,0 +1,7 @@
+id,car_model_id,make_id,model_id,model_name,year_model,part_id,category,oe_name,code,description,product_id,bestbuy_id,brand,prod_name,price,srp
+1,1,1,1,Urvan Escapade,2004-2005,1,Battery,OE Battery,N70,,1,1983,ENERGIZER,D31L,5900,5500
+2,2,1,2,Urvan Estate,,0,Battery,OE Battery,,,0,0,ENERGIZER,,5900,5500
+3,3,1,3,NV 350 Urvan (Caravcan),2015/2016,1,Battery,OE Battery,N70,,1,0,ENERGIZER,D31L,5900,5500
+4,4,2,4,1007,,2,Battery,OE Battery,DIN44,,2,0,ENERGIZER,DIN44,5900,5500
+5,5,2,5,206,,2,Battery,OE Battery,DIN44,,2,0,ENERGIZER,DIN44,5900,5500
+6,6,2,6,307,,2,Battery,OE Battery,DIN44,,2,0,ENERGIZER,DIN44,5900,5500

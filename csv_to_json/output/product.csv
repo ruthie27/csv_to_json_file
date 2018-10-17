@@ -1,0 +1,7 @@
+id,car_model_id,prod_id,bestbuy_id,category,name,code,description,replacement,price,srp
+1,1,1,1983,battery,D31L,D31L,,Battery Replacement - D31L,5900,5500
+2,2,0,0,battery,,,,Battery Replacement - ,5900,5500
+3,3,1,0,battery,D31L,D31L,,Battery Replacement - D31L,5900,5500
+4,4,2,0,battery,DIN44,DIN44,,Battery Replacement - DIN44,5900,5500
+5,5,2,0,battery,DIN44,DIN44,,Battery Replacement - DIN44,5900,5500
+6,6,2,0,battery,DIN44,DIN44,,Battery Replacement - DIN44,5900,5500
